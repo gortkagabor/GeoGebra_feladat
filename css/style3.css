@@ -1,0 +1,39 @@
+body {
+	background-color: lightyellow;
+	font-family: Arial, Verdana, sans-serif;
+}
+img {
+	width: 280px;
+	
+}
+.article {
+	background-color: lightblue;
+	max-width: 1024px;
+	
+}
+.intro {
+	background-color: lightgreen;
+	max-width: 1024px;
+	
+}
+.content {
+	background-color: yellow;
+	max-width: 1024px;
+
+}
+.section {
+	background-color: green;
+	max-width: 300px;
+	float: left;
+	
+}	
+h1 {
+	color: orange;
+	text-align: center;
+	font-weight: bold;
+}
+h2 {
+	color: #999999;
+	font-size: 20px;
+}
+
